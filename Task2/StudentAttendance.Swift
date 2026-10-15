@@ -1,0 +1,6 @@
+let attendance = (true, false, true, true, false)
+print("student1: ",attendance.0 ? "present" : "absent")
+print("student1: ",attendance.1 ? "present" : "absent")
+print("student1: ",attendance.2 ? "present" : "absent")
+print("student1: ",attendance.3 ? "present" : "absent")
+print("student1: ",attendance.4 ? "present" : "absent")
